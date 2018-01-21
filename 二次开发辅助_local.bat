@@ -1,0 +1,1 @@
+start java -jar flagnet_admin.jar http://localhost:8080/flagnet 1 ºÎÏşÆì he xiao qi
